@@ -1,0 +1,31 @@
+# 🔹 Ignorar arquivos de ambiente virtual
+venv/
+.env
+
+# 🔹 Ignorar dependências instaladas
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 🔹 Ignorar logs e arquivos temporários
+*.log
+*.out
+*.err
+*.swp
+*.swo
+
+# 🔹 Ignorar arquivos de IDEs e editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 🔹 Ignorar arquivos do Jupyter Notebook
+.ipynb_checkpoints/
+
+# 🔹 Ignorar credenciais
+*.env
+config.json
+secrets.json
+   
